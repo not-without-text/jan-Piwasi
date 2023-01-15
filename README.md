@@ -1,5 +1,5 @@
 # jan-Piwasi
-probably poorly made ai to make toki pona bill wurtz lyrics
+probably poorly made code to make toki pona bill wurtz lyrics
 
 ni li ilo pali mi li pali e nimi musi pi toki pona sama jan Piwasi. ken mute la ona li pali jaki
 
