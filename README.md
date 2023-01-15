@@ -15,5 +15,5 @@ regular langs have a lot of words and synonyms, which would be hard to include.
 toki pona has only 130 ish words. (usually)
 
 toki mute li jo e nimi mute li jo e nimi sama mute.
-toki pona li jo e nimi mute li ... n, o awen
+toki pona li jo e nimi mute li ... n, o awen  
 toki pona li jo e nimi ali mute luka luka. (lon tenpo mute)
